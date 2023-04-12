@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: info.kgeorgiy.ja.trofimov.implementor.Implementor
+Implementation-Vendor: Trofimov Nikita
+Class-Path: ..\java-advanced-2023\artifacts\info.kgeorgiy.java.advanced.implementor.jar
